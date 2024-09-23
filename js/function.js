@@ -19,7 +19,7 @@ function getElementById (eId){
         const div = document.createElement('div');
         div.classList.add('border', 'w-full', 'rounded-lg', 'shadow-lg', 'p-5', 'mt-10');
         div.innerHTML = `
-            <p class = "text-base md:text-2xl font-bold"><span>${dTk}</span> is Donated For ${toDestination}</p>
+            <p class = "text-base md:text-2xl font-bold"><span>${dTk}</span> Taka is Donated For ${toDestination}</p>
             <p class = "md:font-semibold">Date : ${Time}</p>
         `;
     
