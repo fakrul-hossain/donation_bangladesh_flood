@@ -7,8 +7,8 @@ module.exports = {
           custom: ['"Lexend", sans-serif'],
         },
         colors: {
-          primaryColor: 'rgb(180, 244, 97);',
-          customGreen: '#17BF63',
+          primary: '#B4F461',
+          header:'#F9F7F3'
         },
       },
     },
